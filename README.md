@@ -46,7 +46,7 @@
 
 ### `>` estadísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=fecar1951&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C86BFF&icon_color=39FF6A&text_color=c9d1d9" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=fecar1951&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C86BFF&icon_color=39FF6A&text_color=c9d1d9&cache_seconds=86400" width="100%"/>
 
 </td>
 <td valign="top" width="50%">
@@ -63,7 +63,7 @@
 
 ### `>` lenguajes_top
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecar1951&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=29D3FF&text_color=c9d1d9" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecar1951&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=29D3FF&text_color=c9d1d9&cache_seconds=86400" width="60%"/>
 
 </div>
 

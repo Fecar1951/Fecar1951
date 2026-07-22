@@ -5,9 +5,8 @@
 
 <!-- SALUDO Y SUBTÍTULO DINÁMICO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Desarrollador+Full+Stack;Apasionado+por+el+C%C3%B3digo;HTML+%C2%B7+CSS+%C2%B7+JS+%C2%B7+TS;React+%C2%B7+Python+%C2%B7+Java" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Mi+nombre+es+Felipe+Carmona;Full+Stack+Developer;HTML+%C2%B7+CSS+%C2%B7+JS+%C2%B7+TS;React+%C2%B7+Python+%C2%B7+Java" alt="Typing SVG" />
 </h1>
-
 <p align="center">
   <em>Desarrollando experiencias web modernas, interactivas y escalables desde el Frontend hasta el Backend.</em>
 </p>

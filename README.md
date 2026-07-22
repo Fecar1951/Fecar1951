@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋 
+# ¡Hola! Soy Felipe Carmona 👋 
 ### Full Stack Developer | [Tu Stack Principal, ej: MERN / PERN / Next.js & Python]
 
 > Apasionado por construir aplicaciones web escalables, responsivas y de alto rendimiento.
@@ -43,8 +43,8 @@
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fecar1951&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecar1951&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
 
 ---
